@@ -1,0 +1,6 @@
+{
+  "name": "Jigsaw Puzzle Game",
+  "description": "An interactive full-stack jigsaw puzzle game featuring diverse default galleries, image upload capabilities, native audio synthesis, and real-time AI image generation using Google Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
